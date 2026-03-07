@@ -2,7 +2,7 @@
 
 ɱαιɳ αƈƈ : @faded-radiance
 
-![](https://komarev.com/ghpvc/?DragonOfLotus=your-github-DragonOfLotus&label=skibidi+sigmas)
+![](https://komarev.com/ghpvc/?username=DragonOfLotus&color=blue)
 
 
 
